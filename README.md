@@ -1,2 +1,3 @@
-# vscode-extension
-VS Code Extension
+## What is this?
+
+This is a JSONiq VS Code extension.
